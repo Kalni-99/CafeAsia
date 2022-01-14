@@ -1,0 +1,6 @@
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\packages\shopping cart class library\shopping cart class library\obj\Debug\shopping cart class library.csprojAssemblyReference.cache
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\packages\shopping cart class library\shopping cart class library\obj\Debug\shopping cart class library.csproj.CoreCompileInputs.cache
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\packages\shopping cart class library\shopping cart class library\bin\Debug\shopping cart class library.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\packages\shopping cart class library\shopping cart class library\bin\Debug\shopping cart class library.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\packages\shopping cart class library\shopping cart class library\obj\Debug\shopping cart class library.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\packages\shopping cart class library\shopping cart class library\obj\Debug\shopping cart class library.pdb

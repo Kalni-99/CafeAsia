@@ -1,0 +1,1115 @@
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe.config
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Guna.UI2.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csprojAssemblyReference.cache
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Properties.Resources.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.GenerateResource.cache
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CoreCompileInputs.cache
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CopyComplete
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.exe
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Login.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Registration.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.Licensing.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.payment.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.my_cart.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.all_foods.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Delivary_details.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Dashboard.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\shopping cart class library.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\bin\Debug\shopping cart class library.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.sms.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe.config
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.pdb
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.Licensing.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Guna.UI2.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\shopping cart class library.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\shopping cart class library.pdb
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.all_foods.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Dashboard.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Delivary_details.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Login.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.my_cart.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.payment.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Properties.Resources.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Registration.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.sms.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.GenerateResource.cache
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CoreCompileInputs.cache
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CopyComplete
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.exe
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.pdb
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Contact_Us.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Foods.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\FontAwesome.Sharp.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.Design.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.Fonts.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Add_Update_Delete_Foods.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Admin_Dashboard.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Customer_Report.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Desserts.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Drinks.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Item_List_Report.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Sales_Report.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Snacks.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\RdlCompile.cache
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\RdlCompile.compiled
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\EnvDTE.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\stdole.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.MSXML.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csprojAssemblyReference.cache
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csprojAssemblyReference.cache
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Add_Update_Delete_Foods.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Admin_Dashboard.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.All_Foods.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Contact_Us.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Customer_Report.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Desserts.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Drinks.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Email.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Foods.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Dashboard.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Delivary_details.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Item_List_Report.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Login.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.my_cart.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.payment.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Properties.Resources.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.QR_code.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Registration.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Sales_Report.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.sms.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Snacks.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.GenerateResource.cache
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CoreCompileInputs.cache
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe.config
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.Licensing.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\FontAwesome.Sharp.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Guna.UI2.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.Design.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.Fonts.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\shopping cart class library.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.presentation.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\EnvDTE.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\stdole.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.MSXML.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\shopping cart class library.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.presentation.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.presentation.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CopyComplete
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.exe
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.pdb
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe.config
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.pdb
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.Licensing.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\FontAwesome.Sharp.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Guna.UI2.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.Design.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.Fonts.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\shopping cart class library.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.presentation.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\EnvDTE.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\stdole.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.MSXML.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\shopping cart class library.pdb
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.pdb
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.presentation.pdb
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.presentation.xml
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csprojAssemblyReference.cache
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Add_Update_Delete_Foods.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Admin_Dashboard.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.All_Foods.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Contact_Us.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Customer_Report.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Desserts.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Drinks.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Email.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Foods.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Dashboard.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Delivary_details.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Gmail_QR_code.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.IG_QR_code.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Item_List_Report.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Login.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.my_cart.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.payment.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Properties.Resources.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.QR_code.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Registration.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Sales_Report.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.sms.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Snacks.resources
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.GenerateResource.cache
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\RdlCompile.cache
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\RdlCompile.compiled
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CoreCompileInputs.cache
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CopyComplete
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.exe
+E:\Diploma in Software Engineering\Semester 2 stage 1\GUI\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe.config
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.Licensing.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\FontAwesome.Sharp.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Guna.UI2.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.Design.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.Fonts.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\shopping cart class library.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.presentation.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\EnvDTE.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\stdole.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.MSXML.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\shopping cart class library.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.presentation.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zxing.presentation.xml
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csprojAssemblyReference.cache
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Add_Update_Delete_Foods.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Admin_Dashboard.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.All_Foods.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Contact_Us.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Customer_Report.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Desserts.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Drinks.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Email.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Foods.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Dashboard.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Delivary_details.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Gmail_QR_code.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.IG_QR_code.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Item_List_Report.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Login.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.my_cart.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.payment.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Properties.Resources.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.QR_code.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Registration.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Sales_Report.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.sms.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Snacks.resources
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.GenerateResource.cache
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CoreCompileInputs.cache
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CopyComplete
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.exe
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.pdb
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\RdlCompile.cache
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\RdlCompile.compiled
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe.manifest
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.application
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.exe.manifest
+E:\DSE -NIBM\semseter 2phase 1\c#\course work 2\asna (1)\asna\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.application
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Add_Update_Delete_Foods.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Admin_Dashboard.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.All_Foods.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Contact_Us.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Customer_Report.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Desserts.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Drinks.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Email.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Foods.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Dashboard.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Delivary_details.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Gmail_QR_code.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.IG_QR_code.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Item_List_Report.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Login.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.my_cart.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.payment.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Properties.Resources.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.QR_code.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Registration.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Sales_Report.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.sms.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe_Asia.Snacks.resources
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.GenerateResource.cache
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CoreCompileInputs.cache
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe.config
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe.manifest
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.application
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.exe
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Cafe Asia.pdb
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.Licensing.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Guna.UI2.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.Design.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\shopping cart class library.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zxing.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zxing.presentation.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\EnvDTE.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\stdole.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Microsoft.MSXML.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\shopping cart class library.pdb
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zxing.pdb
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zxing.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zxing.presentation.pdb
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zxing.presentation.xml
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.exe.manifest
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.application
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CopyComplete
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.exe
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.pdb
+C:\Users\94768\Desktop\GUI\gui cw2 group project\Cafe Asia\Cafe Asia\obj\Debug\Cafe Asia.csprojAssemblyReference.cache
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Cafe Asia.exe.config
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Cafe Asia.exe.manifest
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Cafe Asia.application
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Cafe Asia.exe
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Cafe Asia.pdb
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.Licensing.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Guna.UI2.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\MetroFramework.Design.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\MetroFramework.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\shopping cart class library.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zxing.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zxing.presentation.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\EnvDTE.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\stdole.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Microsoft.MSXML.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\shopping cart class library.pdb
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zxing.pdb
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zxing.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zxing.presentation.pdb
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zxing.presentation.xml
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe Asia.csprojAssemblyReference.cache
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Add_Update_Delete_Foods.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Admin_Dashboard.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.All_Foods.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Contact_Us.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Customer_Report.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Desserts.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Drinks.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Email.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Foods.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Dashboard.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Delivary_details.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Gmail_QR_code.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.IG_QR_code.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Item_List_Report.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Login.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.my_cart.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.payment.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Properties.Resources.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.QR_code.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Registration.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Sales_Report.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.sms.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Snacks.resources
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe Asia.csproj.GenerateResource.cache
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CoreCompileInputs.cache
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe Asia.exe.manifest
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe Asia.application
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CopyComplete
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe Asia.exe
+C:\Users\94768\Desktop\CafeAsia\Cafe Asia\obj\Debug\Cafe Asia.pdb
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe Asia.csprojAssemblyReference.cache
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Add_Update_Delete_Foods.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Admin_Dashboard.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.All_Foods.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Contact_Us.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Customer_Report.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Desserts.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Drinks.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Email.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Foods.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Dashboard.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Delivary_details.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Gmail_QR_code.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.IG_QR_code.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Item_List_Report.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Login.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.my_cart.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.payment.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Properties.Resources.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.QR_code.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Registration.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Sales_Report.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.sms.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe_Asia.Snacks.resources
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe Asia.csproj.GenerateResource.cache
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe Asia.csproj.CoreCompileInputs.cache
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe Asia.exe
+C:\Users\94768\Desktop\Aruna\CafeAsia\Cafe Asia\obj\Debug\Cafe Asia.pdb
